@@ -1,13 +1,5 @@
 - 👋 Hi, I’m @calvinma888
 - 👀 I’m interested in machine learning and deep learning especially in NLP and its financial applications
-
-- ⁣⛅ ☁ ☁  ☁  🚁   ✈
-- 🏢🏤_🏬_ / |_\🏫🏢🌳🌳
-- \_\_\_\_\_\_\_🚋_🚗\_\_\_🚕\_\_\_\_\_\_
-- 🏡⁣🏥🏦  /   |🚖\ 🏠🌳🏡
-- 🏡🏡🏪 /    | 🚘\ 🏪🏨
-- 💒 🏨 /     |    \ 🏡🏩
-
 - 📫 How to reach me: feel free to reach out via email at calvinma888 (at] gmail [dot) com
 
 <!---
