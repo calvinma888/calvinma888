@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @calvinma888
-- 💻 I’m interested in machine learning and deep learning especially in NLP and its financial applications
-- 📫 Feel free to reach out via email at calvinma888 (at] gmail [dot) com
+- 💻 I’m interested in machine learning and deep learning, as well as its financial and NLP applications
+- 📫 Feel free to reach out via email.
 
 <!---
 calvinma888/calvinma888 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
